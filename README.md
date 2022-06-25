@@ -8,6 +8,6 @@
 |git add <filename>| add file from Working Directory to Staging Area|
 |git commit -m <"comment">| commits the files from Staging Area to Git Repository|
 |git push <origin - remote repository> <main - branch to push>| uploads the files to GitHub|
-|git pull <git https address>|downloads repository from GitHub|
+|git pull <githttps address>|downloads repository from GitHub|
 
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
