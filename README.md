@@ -1,8 +1,8 @@
-#Git comands
+# Git comands
 |Comand|Description|
 |---|---|
-|git config --global user.name <"Sam Smith">||
-|git config --global user.email <"email address">||
+|git config --global user.name <'Sam Smith'>||
+|git config --global user.email <`email address`>||
 |git init| initiate the repository|
 |git status|presents the status of the current repository|
 |git add <filename>| add file from Working Directory to Staging Area|
