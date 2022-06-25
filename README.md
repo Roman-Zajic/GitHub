@@ -7,4 +7,7 @@
 |git status|presents the status of the current repository|
 |git add <filename>| add file from Working Directory to Staging Area|
 |git commit -m <"comment">| commits the files from Staging Area to Git Repository|
-|git push <origin - remote repository> <main - branch to push>| add file to Staging repository|
+|git push <origin - remote repository> <main - branch to push>| uploads the files to GitHub|
+|git pull <https:gitaddress>|downloads repository from GitHub|
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
