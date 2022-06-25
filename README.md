@@ -1,13 +1,13 @@
 # Git comands
 |Comand|Description|
 |---|---|
-|git config --global user.name <'Sam Smith'>||
-|git config --global user.email <`email address`>||
-|git init| initiate the repository|
-|git status|presents the status of the current repository|
-|git add <filename>| add file from Working Directory to Staging Area|
-|git commit -m <"comment">| commits the files from Staging Area to Git Repository|
-|git push <origin - remote repository> <main - branch to push>| uploads the files to GitHub|
-|git pull <"githttps address">|downloads repository from GitHub|
+|git config --global user.name `Sam Smith`|Sets the name|
+|git config --global user.email `email address`|Srts the email address|
+|git init|Initiate the repository|
+|git status|Presents the status of the current repository|
+|git add `filename`| Add file from Working Directory to Staging Area|
+|git commit -m `"comment"`|Commits the files from Staging Area to Git Repository|
+|git push `origin - remote repository` `main - branch to push`|Uploads the files to GitHub|
+|git pull `git address`|Downloads repository from GitHub|
 
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
