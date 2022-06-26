@@ -21,10 +21,11 @@
  
 |Comand|Description|Example|
 |---|---|---|
-|git branch|Display branches|git branch|
+|git branch|Display branches|git branch<br>git branch -d `branch name`|
 |git checkout|Switch branches or restores working tree file|git checkout -b `new branch`
 |git diff|Shows differences between branch and the main branch|git diff `new branch`|
 |git push|push branch to GitHub|git push -u `orign` `new branch`|
+
  
  
  </p>
