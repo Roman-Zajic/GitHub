@@ -1,6 +1,7 @@
 # Git comands
 
 <details><summary>CLICK ME</summary>
+<p>
 |Comand|Description|
 |---|---|
 |git config --global user.name `Sam Smith`|Sets the name|
@@ -11,7 +12,7 @@
 |git commit -m `"comment"`|Commits the files from Staging Area to Git Repository|
 |git push `origin - remote repository` `main - branch to push`|Uploads the files to GitHub|
 |git pull `git address`|Downloads repository from GitHub|
-
+ </p>
 </details>
 
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
